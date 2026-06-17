@@ -24,13 +24,13 @@ backend/
 
 ```bash
 cd backend
-go run ./cmd/server      # слушает :3000 (переопределяется переменной PORT)
+go run ./cmd/server      # слушает :3001 (переопределяется переменной PORT)
 ```
 
 Проверка:
 
 ```bash
-curl http://localhost:3000/public/event-types
+curl http://localhost:3001/public/event-types
 ```
 
 ## Тесты
