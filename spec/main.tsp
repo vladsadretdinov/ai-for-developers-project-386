@@ -25,5 +25,5 @@ using OpenAPI;
  */
 @service(#{ title: "Booking Calendar API" })
 @info(#{ version: "1.0.0" })
-@server("http://localhost:3000", "Локальный сервер разработки")
+@server("http://localhost:3001", "Локальный сервер разработки")
 namespace BookingCalendar;
