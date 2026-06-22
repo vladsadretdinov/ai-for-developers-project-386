@@ -1,6 +1,6 @@
 {
   "name": "booking-calendar-spec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "API-контракт сервиса бронирования слотов (владелец календаря + гости)",
   "type": "module",
