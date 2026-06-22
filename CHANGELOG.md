@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/vladsadretdinov/ai-for-developers-project-386/compare/v1.0.1...v1.1.0) (2026-06-22)
+
+
+### Features
+
+* **backend:** отдавать собранный фронтенд и API под /api в продакшн-режиме ([a35266e](https://github.com/vladsadretdinov/ai-for-developers-project-386/commit/a35266e0a530716a0d44b9dc5af690eabf500c13))
+
+
+### Build System
+
+* добавить Dockerfile для единого образа фронтенд+бэкенд ([8deff84](https://github.com/vladsadretdinov/ai-for-developers-project-386/commit/8deff848d128b55e0ee59b61155ff5b555a328a7))
+
 ## [1.0.1](https://github.com/vladsadretdinov/ai-for-developers-project-386/compare/v1.0.0...v1.0.1) (2026-06-22)
 
 
