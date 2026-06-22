@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/vladsadretdinov/ai-for-developers-project-386/compare/v1.1.0...v1.1.1) (2026-06-22)
+
+
+### Documentation
+
+* добавить ссылку на опубликованное приложение (Railway) ([e139de0](https://github.com/vladsadretdinov/ai-for-developers-project-386/commit/e139de043aac6b29eaed1e73caef8988c3d41524))
+
 ## [1.1.0](https://github.com/vladsadretdinov/ai-for-developers-project-386/compare/v1.0.1...v1.1.0) (2026-06-22)
 
 
