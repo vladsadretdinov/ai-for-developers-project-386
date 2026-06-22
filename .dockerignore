@@ -1,0 +1,10 @@
+**/node_modules
+**/dist
+**/.angular
+**/.git
+e2e
+tsp-output
+docs
+*.md
+**/test-results
+**/playwright-report
